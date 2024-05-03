@@ -1,0 +1,15 @@
+body{
+    background-color: #cccccc;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
