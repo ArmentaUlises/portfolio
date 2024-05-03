@@ -4,12 +4,13 @@ body{
 
 .img-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 90vh;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 95vh;
 }
 
 img {
     max-width: 100%;
     height: auto;
+    margin: 25px
 }
